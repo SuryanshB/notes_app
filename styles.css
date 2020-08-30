@@ -1,0 +1,39 @@
+#wholeBody {
+    width: 600px;
+    background-color: lightcyan;
+    margin: 0 auto;
+    height: 1000px;
+    position: relative;
+    bottom: 160px;
+}
+#notes_img {
+    width: 130px;
+    height: 130px;
+    position: relative;
+    left: 215px;
+    bottom: 20px;
+}
+h1 {
+    font-size: 50px;
+    margin: 30px;
+    padding: 30px;
+    font-family: Helvetica;
+    color: darkblue;
+}
+
+.button {
+    padding: 10px 20px;
+    position: relative;
+    left: 485px;
+    bottom: 110px;
+  }
+
+#notes {
+    font-size: 20px;
+    margin: 30px;
+    padding: 30px;
+    position: relative;
+    bottom: 118px;
+    left: 13px;
+    color: red;
+}
