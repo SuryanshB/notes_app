@@ -1,17 +1,17 @@
 #wholeBody {
     width: 600px;
-    background-color: lightcyan;
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
     margin: 0 auto;
     height: 1000px;
     position: relative;
     bottom: 160px;
 }
 #notes_img {
-    width: 130px;
-    height: 130px;
+    width: 110px;
+    height: 110px;
     position: relative;
-    left: 215px;
-    bottom: 20px;
+    left: 240px;
+    bottom: 15px;
 }
 h1 {
     font-size: 50px;
@@ -35,5 +35,14 @@ h1 {
     position: relative;
     bottom: 118px;
     left: 13px;
-    color: red;
+    color:blue;
+}
+
+#suru {
+    position: relative;
+    left: 1148px;
+    bottom: 550px;
+    color:darkorange;
+    font-size: 20px;
+    font-family: cursive;
 }

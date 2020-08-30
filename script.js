@@ -5,7 +5,7 @@ const classNames = {
   const list = document.getElementById('notes');
   
   function newTodo() {
-    const todoText = prompt("Enter TODO");
+    const todoText = prompt("Enter TO DO");
     let li = document.createElement('li');
     addStyle(classNames.TODO_ITEM, li);
     let span = document.createElement('span');
