@@ -48,8 +48,9 @@ h1 {
 }
 #zoom {
     position: relative;
-    left: 200px;
+    left: 190px;
     width: 600px;
     height: 200px;
+    bottom: 80px;
     background-color: lightcyan;
 }
